@@ -10,7 +10,7 @@
 - [frontend github link](https://github.com/kawsar334/sports-equipment-store_client_side)
 
 **Backend Links**
-- [backend github link](https://github.com/programming-hero-web-course2/b10-a10-server-side-kawsar334)
+- [backend github link](https://github.com/kawsar334/sports-equipment-_backend)
 - [api Link on vercel](https://server-with-auth.vercel.app) +/endpoind 
 
 ### Description
